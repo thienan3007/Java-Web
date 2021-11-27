@@ -1,8 +1,11 @@
-# Welcome to Math-Util Repository
+# Welcome to Java Web Repository
 
-### You will find in this repo the following stuff:
-* The Java source code used to demonstrate the Unit Test level Technique
-* The JUnit Test source code to implement TDD technique
-* The .gitignore & README.md files to manage this repo itself
+### Here are some technologies that I use for the whole project:
+* Using Servlet as Main Controller and follow the MVC2 model 
+* Using Filter as Main Controller
+* Using SQL Server as database 
+* Using HTML, CSS, JS for front-end 
+* Using expression language for JSP page 
+* Using authenticaton and authorization features
 
 #### © 2021 thien.an | fb/antruong3007
